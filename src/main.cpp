@@ -1,11 +1,7 @@
-#include <iostream>
-
-#include <GClasses/GMatrix>
-#include <GClasses/GNeuralNet>
-
+#include "global.h"
 #include "Styler.h"
 
-using namespace GCLasses;
+using namespace GClasses;
 using std::cout;
 using std::endl;
 
